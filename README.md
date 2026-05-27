@@ -10,19 +10,28 @@ I built this interactive dashboard in Power BI connecting directly to the findin
 
 **Page 1 — Overview**
 High level KPIs — total flights, average departure delay, on-time performance and cancellation rate. Monthly flight volume trends and delay patterns by day of week with airline filter.
+
 <img src="Overview.png" width="700"/>
 
 **Page 2 — Airline Performance**
 Complete airline scorecard with color coded performance table. On-time performance and cancellation rate ranked across all 14 airlines.
 
+<img src="airline_performance_analysis.png" width="700"/>
+
 **Page 3 — Airport & Route Analysis**
 Top 10 busiest airports and routes by volume. Most delayed routes with interactive airline filter to drill down by carrier.
+
+<img src="airport_route_analysis.png" width="700"/>
 
 **Page 4 — Delay & Cancellation Analysis**
 Delay cause breakdown by airline showing weather, airline fault and late aircraft contributions. Monthly delay trends and cancellation reason distribution.
 
+<img src="delay_cancellation_analysis.png" width="700"/>
+
 **Page 5 — Airline Deep Dive**
 Single airline analysis with full KPIs, delay cause breakdown and monthly performance trends for any selected airline.
+
+<img src="airline_deep_dive.png" width="700"/>
 
 ## Key Visuals Used
 
