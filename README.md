@@ -59,3 +59,4 @@ Single airline analysis with full KPIs, delay cause breakdown and monthly perfor
 
 ## Related Project
 🔍 [SQL Analysis Repository](https://github.com/gautamgpt311/flight-delays-sql-analysis)
+👉 [View Live Dashboard](https://app.powerbi.com/links/bTuT5ILVhe?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
